@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>لوحة مدينتي</title>
+  <meta name="theme-color" content="#8f2f08">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="assets/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&display=swap">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/manager.css">
+</head>
+<body>
+  <header class="mtop">
+    <img src="assets/logo.png" alt="">
+    <b>لوحة المدير</b>
+    <span id="top-actions"></span>
+  </header>
+  <main id="root" class="wrap"></main>
+  <div id="toast" class="toast" hidden></div>
+
+  <script>window.App = { role: 'manager' };</script>
+  <script src="js/config.js"></script>
+  <script src="js/icons.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/demo.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/manager/orders.js"></script>
+  <script src="js/manager/menu.js"></script>
+  <script src="js/manager/settings.js"></script>
+  <script src="js/manager/main.js"></script>
+</body>
+</html>

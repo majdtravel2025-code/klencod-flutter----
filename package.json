@@ -1,0 +1,14 @@
+{
+  "name": "madinati-app",
+  "version": "1.0.0",
+  "description": "تطبيق طلبات مطاعم مدينتي: واجهة الزبون، لوحة المدير، وخادم Node بدون أي اعتماديات خارجية",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server/server.js",
+    "set-manager": "node server/scripts/set-manager.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

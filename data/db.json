@@ -1,0 +1,236 @@
+{
+  "users": [
+    {
+      "id": "u6d1859d9f3",
+      "role": "manager",
+      "name": "المدير",
+      "login": "manager",
+      "pass": "b0ad22558b4d350656b9861c7a7739e5:1012ddf81283ddae14efb8b2e78b7f34b0b6fd44ffaf860d4abac52fec38b6d7aa0b1aaeafda1afa956218496472ccfffef4fc1f560bf129593c570334f29fc8",
+      "createdAt": 1793867894526
+    }
+  ],
+  "orders": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "sea",
+        "name": "البحري"
+      },
+      {
+        "id": "grill",
+        "name": "المشويات"
+      },
+      {
+        "id": "shawarma",
+        "name": "الشاورما"
+      },
+      {
+        "id": "fast",
+        "name": "وجبات سريعة"
+      },
+      {
+        "id": "fatta",
+        "name": "الفتات"
+      },
+      {
+        "id": "meat",
+        "name": "اللحوم"
+      },
+      {
+        "id": "broast",
+        "name": "البرست"
+      },
+      {
+        "id": "shwaya",
+        "name": "الشواية"
+      }
+    ],
+    "items": [
+      {
+        "id": "i01",
+        "cat": "sea",
+        "name": "جمبري مقلي",
+        "desc": "جمبري مقرمش مع الأرز والسلطة.",
+        "price": 7000,
+        "available": true,
+        "pop": true,
+        "sample": true
+      },
+      {
+        "id": "i02",
+        "cat": "sea",
+        "name": "سمك مشوي",
+        "desc": "سمك طازج متبّل ومشوي على الفحم.",
+        "price": 6000,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i03",
+        "cat": "sea",
+        "name": "سمك مقلي",
+        "desc": "مع الأرز والصلصة الحارة.",
+        "price": 5500,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i04",
+        "cat": "grill",
+        "name": "مشكّل مشاوي",
+        "desc": "تشكيلة لحم ودجاج مع الأرز والخبز.",
+        "price": 9000,
+        "available": true,
+        "pop": true,
+        "sample": true
+      },
+      {
+        "id": "i05",
+        "cat": "grill",
+        "name": "كباب",
+        "desc": "أسياخ كباب مشوية مع الخبز والسلطة.",
+        "price": 4500,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i06",
+        "cat": "grill",
+        "name": "دجاج مشوي",
+        "desc": "نصف دجاجة متبّلة ومشوية.",
+        "price": 3500,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i07",
+        "cat": "shawarma",
+        "name": "شاورما دجاج",
+        "desc": "ساندويتش شاورما دجاج بالثوم والمخلل.",
+        "price": 1500,
+        "available": true,
+        "pop": true,
+        "sample": true
+      },
+      {
+        "id": "i08",
+        "cat": "shawarma",
+        "name": "شاورما لحم",
+        "desc": "شاورما لحم بالطحينة والخضار.",
+        "price": 2000,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i09",
+        "cat": "fast",
+        "name": "برجر",
+        "desc": "برجر لحم مع الجبن والبطاطس.",
+        "price": 2500,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i10",
+        "cat": "fast",
+        "name": "ساندويتش دجاج",
+        "desc": "دجاج مقرمش مع الخس والصلصة.",
+        "price": 1800,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i11",
+        "cat": "fatta",
+        "name": "فتة لحم",
+        "desc": "فتة بالخبز واللحم والسمن.",
+        "price": 3500,
+        "available": true,
+        "pop": true,
+        "sample": true
+      },
+      {
+        "id": "i12",
+        "cat": "fatta",
+        "name": "فتة دجاج",
+        "desc": "فتة بالدجاج والصلصة الحارة.",
+        "price": 3000,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i13",
+        "cat": "fatta",
+        "name": "فتة تمر",
+        "desc": "فتة حلوة بالتمر والسمن.",
+        "price": 2500,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i14",
+        "cat": "meat",
+        "name": "لحم مشوي",
+        "desc": "قطع لحم طري مع الأرز.",
+        "price": 7500,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i15",
+        "cat": "meat",
+        "name": "كبدة",
+        "desc": "كبدة مقلية بالبصل والفلفل.",
+        "price": 2500,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i16",
+        "cat": "broast",
+        "name": "برست دجاج (ربع)",
+        "desc": "قطع دجاج مقرمشة مع بطاطس وخبز.",
+        "price": 2200,
+        "available": true,
+        "pop": true,
+        "sample": true
+      },
+      {
+        "id": "i17",
+        "cat": "broast",
+        "name": "برست دجاج (نصف)",
+        "desc": "نصف دجاجة برست مع بطاطس وثوم.",
+        "price": 3800,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i18",
+        "cat": "shwaya",
+        "name": "ربع دجاجة شواية",
+        "desc": "دجاج شواية مع الأرز.",
+        "price": 2000,
+        "available": true,
+        "sample": true
+      },
+      {
+        "id": "i19",
+        "cat": "shwaya",
+        "name": "نصف دجاجة شواية",
+        "desc": "مع الأرز والسلطة.",
+        "price": 3500,
+        "available": true,
+        "sample": true
+      }
+    ]
+  },
+  "settings": {
+    "restaurantName": "مطاعم مدينتي",
+    "phone": "",
+    "acceptingOrders": true
+  },
+  "seq": {
+    "order": 1000
+  },
+  "secret": "a986d64d02605cd592c45e979a09d83f6a26597770f45fe898560584bc3ae7c4"
+}
